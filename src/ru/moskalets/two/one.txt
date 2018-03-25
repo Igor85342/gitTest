@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Main text.
 Update 1.
+=======
+Main text.
+>>>>>>> origin/master
